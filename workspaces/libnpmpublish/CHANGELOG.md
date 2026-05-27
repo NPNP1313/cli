@@ -1,5 +1,9 @@
 # Changelog
 
+## [11.2.0-pre.1](https://github.com/npm/cli/compare/libnpmpublish-v11.2.0-pre.0...libnpmpublish-v11.2.0-pre.1) (2026-05-27)
+### Bug Fixes
+* [`c5292fa`](https://github.com/npm/cli/commit/c5292fa8a09a56b25394d393faf21e47ffb096c0) [#9422](https://github.com/npm/cli/pull/9422) use prerelease strategy without a bug (@owlstronaut)
+
 ## [11.2.0-pre.0.0](https://github.com/npm/cli/compare/libnpmpublish-v11.1.3...libnpmpublish-v11.2.0-pre.0.0) (2026-05-20)
 ### Features
 * [`254809e`](https://github.com/npm/cli/commit/254809e318ee0046092d07d68a99154c3f672147) [#9201](https://github.com/npm/cli/pull/9201) npm stage (#9201) (@reggi, @Copilot)
